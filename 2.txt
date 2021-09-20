@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("'Atmiya', Silver Gold Residence, Nana Mauva Road , Rajkot");
+
+    return 0;
+}
